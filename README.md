@@ -35,8 +35,14 @@ Email Me 👉 ✉️ **kashifkhanbkj55@gmail.com** For Collaboration/Project or 
 ---
 [![](https://visitcount.itsvg.in/api?id=MdKashifscripts&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  https://www.paypal.me/paypal.me/Mdkashif180
+ ## 💙 Support This Project
 
+You can support this project via PayPal:
+
+## 💖 Donate
+
+Support this project with a small donation 💙
+
+[![Donate $](https://img.shields.io/badge/Donate-%24-blue.svg?style=for-the-badge)](https://paypal.me/paypal.me/Mdkashif180)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
