@@ -43,6 +43,7 @@ You can support this project via PayPal:
 
 Support this project with a small donation 💙
 
-[![Donate $](https://img.shields.io/badge/Donate-%24-blue.svg?style=for-the-badge)](https://paypal.me/paypal.me/Mdkashif180)
+[Donate $ via PayPal](https://www.paypal.me/paypal.me/Mdkashif180)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
