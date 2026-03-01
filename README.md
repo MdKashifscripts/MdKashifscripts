@@ -43,7 +43,7 @@ You can support this project via PayPal:
 
 Support this project with a small donation 💙
 
-[Donate $ via PayPal](https://www.paypal.me/paypal.me/Mdkashif180)
+[Donate $ via PayPal](https://paypal.me/Mdkashif180)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
